@@ -33,4 +33,5 @@ C# kodumuzda öncelikle form tasarımını bir öğrenci portalına uygun şekil
 
 
 ![image](https://github.com/Kemalgnl/Ogrenci_portal_Bilgi_sistemi/assets/86780970/b83719cb-395f-4e54-b9c1-201a9f11e404)
-öğretmen panelinin iç yapısı
+
+Öğretmen panelinin iç yapısı

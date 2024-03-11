@@ -1,1 +1,1 @@
-# proje1.2
+# Ogrenci portal Bilgi sistemi

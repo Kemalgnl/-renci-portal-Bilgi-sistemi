@@ -2,7 +2,7 @@
 
 PROJENİN AMACI;
 
-Projenin amacı üniversit portalını c# form uygulaması yardımıyla Windows uygulaması yapmak
+Projenin amacı öğrencinin üniversite portal bilgi sistemi  c# form uygulaması yardımıyla Windows uygulaması yapmak
 
 Bu kapsamda verilerimizi saklamak,rahatça erişebilmek adına database kısmında mysql database kullandık.
 
